@@ -1,0 +1,1 @@
+In this assignment, we created a info.json file that contains a resume. Said resume can be retrieved via the index.js file. The index.js file uses the .readFile to pull the information that is stored in info.json and display it for the user. The package.json contains the commands that are need by a user in order to print the resume information saved in info.json.
